@@ -1,6 +1,6 @@
 {
   "short_name": "Object Detection",
-  "name": "Object Detection on the browser using TensorFlow.js",
+  "name": "Object Detection on the browser",
   "icons": [
     {
       "src": "favicon.ico",
