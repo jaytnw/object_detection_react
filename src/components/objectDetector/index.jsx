@@ -166,6 +166,7 @@ export function ObjectDetector(props) {
         type="file"
         ref={fileInputRef}
         onChange={onSelectImage}
+        accept="image/png, image/gif, image/jpeg, image/webp "
       />
       <SelectButton onClick={openFilePicker}>
         {isLoading ? "Recognizing..." : "Select Image"}
