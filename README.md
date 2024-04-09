@@ -1,3 +1,10 @@
+# Object Detection with React on the Client-Side
+
+![alt text]([http://url/to/img.png](https://github.com/jaytnw/object_detection_react/blob/main/public/image-result.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
