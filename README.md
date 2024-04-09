@@ -1,6 +1,6 @@
 # Object Detection with React on the Client-Side
 
-![alt text]([http://url/to/img.png](https://github.com/jaytnw/object_detection_react/blob/main/public/image-result.png)
+![alt text](https://github.com/jaytnw/object_detection_react/blob/main/public/image-result.png)
 
 
 
