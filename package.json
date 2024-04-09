@@ -47,4 +47,5 @@
     "@tensorflow/tfjs-converter": "^2.8.6",
     "@tensorflow/tfjs-core": "^2.8.6"
   }
+  
 }
